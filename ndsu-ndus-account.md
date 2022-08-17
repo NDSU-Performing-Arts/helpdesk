@@ -5,7 +5,7 @@ Your **NDSU** and ***NDUS*** usernames will be the same, but your passwords may 
 
 **NDSU** account login pages usually look like this: (it usually says “NDSU” on it)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5221c7ae-1d40-4201-b535-56241e57561a/Untitled.png)
+![Untitled](https://cdn.ntfg.net/static/dpa-helpdesk/ndsu-login-page.png)
 
 **NDSU** Accounts are used for:
 
@@ -19,7 +19,7 @@ Your **NDSU** and ***NDUS*** usernames will be the same, but your passwords may 
 
 ***NDUS*** account login pages usually look like this: (it usually has the ***NDUS*** triangle on it)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e52d8ed7-5dbb-47bc-a534-11b102c7c765/Untitled.png)
+![Untitled](https://cdn.ntfg.net/static/dpa-helpdesk/ndus-login-page.png)
 
 ***NDUS*** Accounts are used for:
 
