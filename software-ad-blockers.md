@@ -6,10 +6,10 @@ Ad Blocking plugins are installed on a per-browser basis. You will need to insta
 
 Install one of these browser extensions (it is not necessary to install multiple extensions). You will usually be prompted to click a button labeled as "Get" or "Install."
 
-*[Adblock Plus for Edge](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-free-ad-bl/gmgoamodcdcjnbaobigkjelfplakmdhh)
-*[Adblock Plus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/)
-*[Adblock Plus for Chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en-US)
+* [Adblock Plus for Edge](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-free-ad-bl/gmgoamodcdcjnbaobigkjelfplakmdhh)
+* [Adblock Plus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/)
+* [Adblock Plus for Chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en-US)
 
-*[uBlock Origin for Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
-*[uBlock Origin for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-*[uBlock Origin for Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+* [uBlock Origin for Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+* [uBlock Origin for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+* [uBlock Origin for Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
